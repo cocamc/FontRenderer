@@ -1,3 +1,6 @@
+## CREDIT
+Not gonna lie i have no clue which client i got this from but i originally got it from another client then modified some stuff to make it render better so this is for anyone needing a fontrenderer(original client was open source)
+
 ## This was made for fabric 1.20.1 so may not work on other clients.
 (also the icons arnt documented)
 # Installing
